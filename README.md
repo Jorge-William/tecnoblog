@@ -1,4 +1,4 @@
-# tecnoblog
+# TecnoBlog
 Blog fictício de tecnologia simples, para treinar o css e html
 
 
